@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = boulangerie
-build_property.ProjectDir = H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\
+build_property.ProjectDir = H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\BoulangerieQc_linq_JFR\boulangerie\

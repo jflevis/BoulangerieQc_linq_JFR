@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\_CEGEP_HIVER_2022\\Programmation_evolutive_java\\Mes TP\\TP3LinQ1\\boulangerie_linq_test_apres_final\\boulangerie\\boulangerie.csproj": {}
+    "H:\\_CEGEP_HIVER_2022\\Programmation_evolutive_java\\Mes TP\\TP3LinQ1\\BoulangerieQc_linq_JFR\\boulangerie\\boulangerie.csproj": {}
   },
   "projects": {
-    "H:\\_CEGEP_HIVER_2022\\Programmation_evolutive_java\\Mes TP\\TP3LinQ1\\boulangerie_linq_test_apres_final\\boulangerie\\boulangerie.csproj": {
+    "H:\\_CEGEP_HIVER_2022\\Programmation_evolutive_java\\Mes TP\\TP3LinQ1\\BoulangerieQc_linq_JFR\\boulangerie\\boulangerie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\_CEGEP_HIVER_2022\\Programmation_evolutive_java\\Mes TP\\TP3LinQ1\\boulangerie_linq_test_apres_final\\boulangerie\\boulangerie.csproj",
+        "projectUniqueName": "H:\\_CEGEP_HIVER_2022\\Programmation_evolutive_java\\Mes TP\\TP3LinQ1\\BoulangerieQc_linq_JFR\\boulangerie\\boulangerie.csproj",
         "projectName": "boulangerie",
-        "projectPath": "H:\\_CEGEP_HIVER_2022\\Programmation_evolutive_java\\Mes TP\\TP3LinQ1\\boulangerie_linq_test_apres_final\\boulangerie\\boulangerie.csproj",
+        "projectPath": "H:\\_CEGEP_HIVER_2022\\Programmation_evolutive_java\\Mes TP\\TP3LinQ1\\BoulangerieQc_linq_JFR\\boulangerie\\boulangerie.csproj",
         "packagesPath": "C:\\Users\\JF\\.nuget\\packages\\",
-        "outputPath": "H:\\_CEGEP_HIVER_2022\\Programmation_evolutive_java\\Mes TP\\TP3LinQ1\\boulangerie_linq_test_apres_final\\boulangerie\\obj\\",
+        "outputPath": "H:\\_CEGEP_HIVER_2022\\Programmation_evolutive_java\\Mes TP\\TP3LinQ1\\BoulangerieQc_linq_JFR\\boulangerie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
