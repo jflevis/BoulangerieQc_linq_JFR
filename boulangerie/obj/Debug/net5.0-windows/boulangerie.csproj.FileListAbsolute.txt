@@ -1,0 +1,72 @@
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\bin\Debug\net5.0-windows\boulangerie.exe
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\bin\Debug\net5.0-windows\boulangerie.deps.json
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\bin\Debug\net5.0-windows\boulangerie.runtimeconfig.json
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\bin\Debug\net5.0-windows\boulangerie.runtimeconfig.dev.json
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\bin\Debug\net5.0-windows\boulangerie.dll
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\bin\Debug\net5.0-windows\ref\boulangerie.dll
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\bin\Debug\net5.0-windows\boulangerie.pdb
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.csproj.AssemblyReference.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.Form1.resources
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.csproj.GenerateResource.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.GeneratedMSBuildEditorConfig.editorconfig
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.AssemblyInfoInputs.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.AssemblyInfo.cs
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.csproj.CoreCompileInputs.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.dll
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\obj\Debug\net5.0-windows\ref\boulangerie.dll
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.pdb
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.genruntimeconfig.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\bin\Debug\net5.0-windows\boulangerie.exe
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\bin\Debug\net5.0-windows\boulangerie.deps.json
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\bin\Debug\net5.0-windows\boulangerie.runtimeconfig.json
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\bin\Debug\net5.0-windows\boulangerie.runtimeconfig.dev.json
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\bin\Debug\net5.0-windows\boulangerie.dll
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\bin\Debug\net5.0-windows\ref\boulangerie.dll
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\bin\Debug\net5.0-windows\boulangerie.pdb
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.csproj.AssemblyReference.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.Form1.resources
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.csproj.GenerateResource.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.GeneratedMSBuildEditorConfig.editorconfig
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.AssemblyInfoInputs.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.AssemblyInfo.cs
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.csproj.CoreCompileInputs.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.dll
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\obj\Debug\net5.0-windows\ref\boulangerie.dll
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.pdb
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\linqBoulangerie\boulangerie\boulangerie\obj\Debug\net5.0-windows\boulangerie.genruntimeconfig.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\boulangerie.exe
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\boulangerie.deps.json
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\boulangerie.runtimeconfig.json
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\boulangerie.runtimeconfig.dev.json
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\boulangerie.dll
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\ref\boulangerie.dll
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\boulangerie.pdb
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.csproj.AssemblyReference.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.Form1.resources
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.csproj.GenerateResource.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.GeneratedMSBuildEditorConfig.editorconfig
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.AssemblyInfoInputs.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.AssemblyInfo.cs
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.csproj.CoreCompileInputs.cache
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.dll
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\ref\boulangerie.dll
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.pdb
+F:\_CEGEP_HIVER_2022\Programmation_evolutive_java\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.genruntimeconfig.cache
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\boulangerie.exe
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\boulangerie.deps.json
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\boulangerie.runtimeconfig.json
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\boulangerie.runtimeconfig.dev.json
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\boulangerie.dll
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\ref\boulangerie.dll
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\bin\Debug\net5.0-windows\boulangerie.pdb
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.csproj.AssemblyReference.cache
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.Form1.resources
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.csproj.GenerateResource.cache
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.GeneratedMSBuildEditorConfig.editorconfig
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.AssemblyInfoInputs.cache
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.AssemblyInfo.cs
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.csproj.CoreCompileInputs.cache
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.dll
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\ref\boulangerie.dll
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.pdb
+H:\_CEGEP_HIVER_2022\Programmation_evolutive_java\Mes TP\TP3LinQ1\boulangerie_linq_test_apres_final\boulangerie\obj\Debug\net5.0-windows\boulangerie.genruntimeconfig.cache
